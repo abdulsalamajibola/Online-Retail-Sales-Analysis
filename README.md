@@ -120,7 +120,6 @@ International analysis was therefore separated from the UK to make differences b
 
 - **MySQL** — data cleaning, validation and exploratory analysis
 - **Power BI** — data modelling, DAX measures and interactive dashboard development
-- **Power Query** — data preparation within Power BI
 - **GitHub** — project documentation and portfolio presentation
 
 ## Project Files
